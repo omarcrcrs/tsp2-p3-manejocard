@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">e3_listacomida</string>
+
+    <!-- Nombres de los platillos -->
+    <string name="desayuno">Desayuno</string>
+    <string name="postre">Postre</string>
+    <string name="pozole">Pozole</string>
+    <string name="pizza">Pizza</string>
+    <string name="tacos">Tacos</string>
+    <string name="hamburger">Hamburguesa</string>
+
+    <!-- Precio y oferta -->
+    <string name="precio_platillo">MX $%1$.1f</string>
+    <string name="oferta_platillo">Ahorra hasta el %1$d%%</string>
+</resources>
